@@ -1,4 +1,4 @@
-package edu.hm.template;
+package com.example.template;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

@@ -1,4 +1,4 @@
-package edu.hm.template;
+package com.example.template;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.info.Info;

@@ -1,4 +1,4 @@
-package edu.hm.template;
+package com.example.template;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

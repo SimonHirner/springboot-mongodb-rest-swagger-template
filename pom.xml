@@ -8,7 +8,7 @@
 		<version>2.5.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>edu.hm</groupId>
+C	<groupId>com.example</groupId>
 	<artifactId>template</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>template</name>

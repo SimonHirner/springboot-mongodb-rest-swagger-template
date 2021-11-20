@@ -12,7 +12,7 @@ This is a simple template using Spring Boot with MongoDB and Spring Data REST to
 ## Maven Dependencies
 * Spring Web (spring-boot-starter-web)
 * Spring Data MongoDB (spring-boot-starter-data-mongodb)
-* REST Repositories (spring-boot-starter-data-rest<)
+* REST Repositories (spring-boot-starter-data-rest)
 * Springfox (springfox-boot-starter)
 
 ## Requirements
